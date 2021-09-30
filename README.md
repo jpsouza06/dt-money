@@ -6,4 +6,18 @@ Projeto desenvolvido no Ignite da **[Rocketseat](https://www.rocketseat.com.br/)
 
 
 ## Sobre
-Um site de finanças focado em controlar gastos pessoais, podendo adicionar gastos ou ganhos e devolvendo o total. 
+Um site de finanças focado em controlar gastos pessoais, podendo adicionar gastos ou ganhos e devolvendo o total.
+
+
+# 🔧 Como Rodar
+```
+# Copie este repositório com o comando
+git clone https://github.com/martins-rafael/lunarshoes
+
+# Instale as dependências
+yarn 
+
+# Rode a aplicação
+yarn start
+
+```
