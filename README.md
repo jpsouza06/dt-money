@@ -12,7 +12,7 @@ Um site de finanças focado em controlar gastos pessoais, podendo adicionar gast
 # 🔧 Como Rodar
 ```
 # Copie este repositório com o comando
-git clone https://github.com/martins-rafael/lunarshoes
+git clone https://github.com/jpsouza06/dt-money.git
 
 # Instale as dependências
 yarn 
