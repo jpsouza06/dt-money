@@ -1,23 +1,62 @@
-# dt money
 
-Projeto desenvolvido no Ignite da **[Rocketseat](https://www.rocketseat.com.br/)**.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/54922299/139532098-6aff9534-bb59-4657-b145-6b181a69c9e3.png" width="300">
+</div>
+<p align="center">
+    Project developed during the Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
+</p
+  
+ ## 
 
-![WhatsApp Image 2021-09-29 at 13 47 33](https://user-images.githubusercontent.com/54922299/135313315-b890eadd-a679-4a61-ad80-a459a949fd0b.jpeg)
+# 📌 Contents
+
+* [About](#rocket-about)
+* [Screenshots](#camera-screenshots) 
+* [Technologies](#rocket-technologies) 
+* [How to Run](#wrench-how-to-run)
 
 
-## Sobre
-Um site de finanças focado em controlar gastos pessoais, podendo adicionar gastos ou ganhos e devolvendo o total.
+# :rocket: About
+
+A finance site focused on controlling personal expenses, being able to add expenses or earnings and return the total.
+
+##
 
 
-# 🔧 Como Rodar
+# :camera: Screenshots
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/54922299/139531584-349125cd-db39-48bf-a867-83dfab07fb94.jpeg" width="400px">
+  <img src="https://user-images.githubusercontent.com/54922299/139531585-6b31e2d9-ab37-45f0-84ef-ff02e12ef224.jpeg" width="400px">
+</div>
+
+
+
+
+# :rocket: Technologies
+This project was made using the follow technologies:
+
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Styled Components](https://styled-components.com/)
+* [MirageJS](https://miragejs.com/)
+
+
+
+
+
+
+# :wrench: How to Run
 ```
-# Copie este repositório com o comando
+# Copy this repository with the command
 git clone https://github.com/jpsouza06/dt-money.git
 
-# Instale as dependências
+# Install dependencies
 yarn 
 
-# Rode a aplicação
+# Run the application
 yarn start
 
 ```
+
+🤙
