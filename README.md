@@ -33,7 +33,7 @@ A finance site focused on controlling personal expenses, being able to add expen
 
 
 
-# :rocket: Technologies
+# :computer: Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
