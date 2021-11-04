@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/54922299/139532098-6aff9534-bb59-4657-b145-6b181a69c9e3.png" width="300">
 </div>
 <p align="center">
-    Project developed during the Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
+    Project developed during the Bootcamp Ignite module | <a href="https://rocketseat.com.br/">@Rocketseat</a>
 </p
   
  ## 
